@@ -1,0 +1,34 @@
+C:\c# uygulamalar\BlogProject\Business\bin\Debug\net6.0\Business.deps.json
+C:\c# uygulamalar\BlogProject\Business\bin\Debug\net6.0\Business.dll
+C:\c# uygulamalar\BlogProject\Business\bin\Debug\net6.0\Business.pdb
+C:\c# uygulamalar\BlogProject\Business\bin\Debug\net6.0\DataAccess.dll
+C:\c# uygulamalar\BlogProject\Business\bin\Debug\net6.0\Entity.dll
+C:\c# uygulamalar\BlogProject\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\c# uygulamalar\BlogProject\Business\bin\Debug\net6.0\Entity.pdb
+C:\c# uygulamalar\BlogProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\c# uygulamalar\BlogProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# uygulamalar\BlogProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\c# uygulamalar\BlogProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\c# uygulamalar\BlogProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\c# uygulamalar\BlogProject\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\c# uygulamalar\BlogProject\Business\obj\Debug\net6.0\Business.dll
+C:\c# uygulamalar\BlogProject\Business\obj\Debug\net6.0\refint\Business.dll
+C:\c# uygulamalar\BlogProject\Business\obj\Debug\net6.0\Business.pdb
+C:\c# uygulamalar\BlogProject\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\bin\Debug\net6.0\Business.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\bin\Debug\net6.0\Entity.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\bin\Debug\net6.0\Entity.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\obj\Debug\net6.0\Business.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Business\obj\Debug\net6.0\ref\Business.dll

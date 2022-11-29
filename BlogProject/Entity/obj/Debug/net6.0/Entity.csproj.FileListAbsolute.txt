@@ -1,0 +1,24 @@
+C:\c# uygulamalar\BlogProject\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\c# uygulamalar\BlogProject\Entity\bin\Debug\net6.0\Entity.dll
+C:\c# uygulamalar\BlogProject\Entity\bin\Debug\net6.0\Entity.pdb
+C:\c# uygulamalar\BlogProject\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\c# uygulamalar\BlogProject\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# uygulamalar\BlogProject\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\c# uygulamalar\BlogProject\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\c# uygulamalar\BlogProject\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\c# uygulamalar\BlogProject\Entity\obj\Debug\net6.0\Entity.dll
+C:\c# uygulamalar\BlogProject\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\c# uygulamalar\BlogProject\Entity\obj\Debug\net6.0\Entity.pdb
+C:\c# uygulamalar\BlogProject\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\GbPm\BlogProject\Entity\obj\Debug\net6.0\ref\Entity.dll

@@ -1,0 +1,39 @@
+﻿@using Entity.Concrete
+@model List<Category> 
+
+
+@{
+    Layout = null;
+}
+
+
+<a href="~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map</a>
+<a href="~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map</a>
+<a href="~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map">~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map</a>
+<a href="~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map">~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map</a>
+<link href="~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+<link href="~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+<link href="~/../../../../../fbü-ders/gbpm/blogproject/blogproject/wwwroot/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Kategori Adı</th>
+        <th>Durumu</th>
+        <th>Detaylar</th>
+        <th>Sil</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+          <tr>
+              <td>@item.CategoryID</td>
+              <td>@item.CategoryName</td>
+              <td>@item.CategoryStatus/td>
+              <td><a href="#" class="btn btn-warning">Detaylar</a></td>
+              <td><a href="#" class="btn btn-danger">Sil</a></td>
+          </tr>  
+    }
+</table>
+
